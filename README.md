@@ -11,6 +11,9 @@ Ainex
 - https://toddlerbot.github.io/ claims to be under 6000 USD.
 - https://openpyro-a1.github.io/media/paper/noah_robot_iros25.pdf 14k. they get expensive so fast.
 - https://bambot.org/ 300 dollars
+- https://www.youtube.com/watch?v=xwOaStX0mxE&t=1706s&ab_channel=Skyentific video t=1706 3:53 is table of other humanoids
+- berkeley humanoid
+- MIT humanoid
 
 Big names
 
