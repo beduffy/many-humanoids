@@ -18,3 +18,28 @@ Big names
 - Tesla Optimus
 - Apptronik
 - 1X Neo etc
+- hivebotics
+- personaai
+- foundation
+- sanctuary
+- engineered arts
+- reflex robotisc
+- fourier robotics
+- boston dynamics HD Atlas and new atlas
+- xiaomi
+- robot era?
+- beyond imagination beonmi
+- menteebot
+- agility
+- neurax
+- phoenix
+- dkiild
+- methis
+- alter 3
+- ARMAR-6
+- Jiajia
+- Asimo
+  blue biped
+- neurox
+- UBTECH robotics
+- galaxea
